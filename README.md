@@ -17,6 +17,7 @@ Arbitrary style transfer aims to reproduce the target image with the artistic or
 
 
 ## Model Testing
+- Download [VGG pretrained](https://drive.google.com/file/d/1cI6ubAziMdOsSJZEvfofW-iCtnCmsONL/view?usp=share_link) model to ./model/ folder/
 - Put content images to *./content/* folder.
 - Put style images to *./style/* folder.
 - Run the following command:
