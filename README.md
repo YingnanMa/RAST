@@ -22,5 +22,5 @@ Arbitrary style transfer aims to reproduce the target image with the artistic or
 - Put style images to *./style/* folder.
 - Run the following command:
 ```
-python Eval.py --content_dir ./content --style_dir ./style
+python Eval.py --content_dir ./content/ --style_dir ./style/
 ```
