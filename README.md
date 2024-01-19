@@ -24,3 +24,5 @@ Arbitrary style transfer aims to reproduce the target image with the artistic or
 ```
 python Eval.py --content_dir ./content/ --style_dir ./style/
 ```
+## Model Training
+- For training process, please proceed to ''RAST-TOMM'' repository
