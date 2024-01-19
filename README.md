@@ -26,3 +26,4 @@ python Eval.py --content_dir ./content/ --style_dir ./style/
 ```
 ## Model Training
 - For training process, please proceed to ''RAST-TOMM'' repository
+- WACV version matches IEAST-replaced strategy in ''RAST-TOMM'' repository
